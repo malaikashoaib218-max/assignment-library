@@ -1,0 +1,11 @@
+﻿  Smart Home Device State Management Library.cpp
+C:\Users\Syed Ghazanfar\source\repos\Smart Home Device State Management Library\Smart Home Device State Management Library\SmartDevice.h(59,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Smart%20Home%20Device%20State%20Management%20Library.cpp')
+  
+C:\Users\Syed Ghazanfar\source\repos\Smart Home Device State Management Library\Smart Home Device State Management Library\SmartDevice.h(60,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Smart%20Home%20Device%20State%20Management%20Library.cpp')
+  
+C:\Users\Syed Ghazanfar\source\repos\Smart Home Device State Management Library\Smart Home Device State Management Library\SmartDevice.h(64,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Smart%20Home%20Device%20State%20Management%20Library.cpp')
+  
+  Smart Home Device State Management Library.vcxproj -> C:\Users\Syed Ghazanfar\source\repos\Smart Home Device State Management Library\x64\Debug\Smart Home Device State Management Library.exe
